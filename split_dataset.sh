@@ -22,3 +22,8 @@ do
     src=${ROOT}${col1}
     cp ${src%?}  ${DES_TEST}${array[0]} 
 done <$f_test
+
+
+
+
+
